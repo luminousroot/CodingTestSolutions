@@ -5,4 +5,4 @@
 - [Cos Pro 1 - Python](https://edu.goorm.io/lecture/17299/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)
 ---
 ## Programmers
-- [Programmers 연습문제](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+- [Programmers 코딩테스트 연습문제](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
